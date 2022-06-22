@@ -3,3 +3,5 @@ git commit -m "comment"
 git push origin master
 To add and commit
 git commit -am "comment"
+to remove
+git rm filename
