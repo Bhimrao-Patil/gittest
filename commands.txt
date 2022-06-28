@@ -31,4 +31,6 @@ if we have 1000 logs we want to checl what you did the commit last
   git log --since=2-27-2022 --oneline
   git log --author="Bhimrao-Patil"
   git log --grep="change" --basically checks the commit msges
+  git log --grep="change" --basically checks the commit msges
+  git log --grep="change" --basically checks the commit msges
  
